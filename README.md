@@ -1,6 +1,6 @@
-<p align="center"><a href="https://t.me/VeezVideoBot"><img src="https://github.com/LOGI-TECH/LOGI-BOT/blob/master/logi/resources/logi.png"></a></p>
+<p align="center"><a href="https://t.me/logi_1_robot"><img src="https://te.legra.ph/file/ec2474aa36703600089bc.jpg"></a></p>
 <p align="center">
-    <br><b>The Telegram group management and music & video Stream bot repo in Open-Source. Telegram Bot project that's allow you to Manage your group with extra features and  play Video & Music trough the Telegram Group Video Chat</b><br>
+    <br><b>The Telegram group management and music & video Stream bot repo in Open-Source. Telegram Bot project that's allow you to Manage your group with extra features and  play Video & Music trough the Telegram Group Video Chat. you can see this bot on telegram [LOGI](http://t.me/LOGI_1_BOT) </b><br>
 </p>
 <p align="center">
     <a href="https://app.codacy.com/gh/LOGI-TECH/LOGI-BOT/dashboard"> <img src="https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=red&logo=codacy&style=flat-square" alt="Codacy" /></a>
