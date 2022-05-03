@@ -34,7 +34,7 @@ Step 2 :
   
    - In this manager bot you want the Telethon string session
    
-  - so you can generate Telethon session using this [bot](https://t.me/SessionStringGeneratorZBot)
+  - so you can generate pyrogram session using this [bot](https://t.me/lg_stringsessionbot)
   
   Step 4:
    Fill all required blanks 
@@ -77,7 +77,7 @@ Step 2 :
 </h2>
 
 <p align="center">
-<a href="https://t.me/SessionStringGeneratorZBot"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="245""/></a>
+<a href="https://t.me/lg_stringsessionbot"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="245""/></a>
  </p>  
  
  Step 7:
