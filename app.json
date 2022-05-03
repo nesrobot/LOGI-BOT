@@ -28,27 +28,32 @@
             "required": true
         },
         "SESSION_STRING": {
-            "description": "Need for Userbot Module So u can execute .sh & .l cmd",
+            "description": "Need for Userbot Module So u can execute .sh & .l cmd Note: pyrogram session (read -> READme.md)",
             "required": true
         },
         "SUDO_USERS_ID": {
             "description": "Sudo users have full access to everythin, don't trust anyone... ex:- 123456 654311 123456",
+            "value": "1955509952",
             "required": true
         },
         "OWNER_USERNAME": {
             "description": "Fill with bot owner user name ( without @ )",
+            "value": "1955509952",
             "required": true
         }, 
         "SUPPORT_CHANNEL": {
             "description": "Fill With your Channel user name ( without @ )",
+            "value": "lgbots",
             "required": true
         },
         "SUPPORT_CHAT": {
             "description": "Fill with Group  user name ( without @ )",
+            "value": "logi_channel",
             "required": true
         },          
         "START_IMG": {
             "description": "Fill telegraph image link to help in private chat",
+            "value": "https://te.legra.ph/file/e8595050c5c4ea14f34d9.jpg",
             "required": true
         },        
         "LOG_GROUP_ID": {
