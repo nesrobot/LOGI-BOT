@@ -63,6 +63,13 @@ Step 2 :
   Notes--> Depoly your music bot in same bot where you depoly the above management bot
   
  Step 5 :
+    
+ ## 🚀 Okteto Deployment
+
+<h4>Click the button below to deploy  on Okteto!</h4>
+<a href="https://cloud.okteto.com/deploy?repository=https://github.com/LOGI-TECH/MUSIC"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
+
+  ## 🚀 Heroku Deployment
         
  Press this Button to Depoly Music Bot in Heroku
   
